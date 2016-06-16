@@ -17,16 +17,16 @@
 	<string name="path_base">OpenDelta</string>
 
 	<!-- URL base to find .delta files, %s is expanded to property_device value. Path is suffixed by (expanded) filename_base -->
-	<string name="url_base_delta">http://download.aosparadox.org/h2o64/YU-OPEN-OS/publish/%/</string>
+	<string name="url_base_delta">http://download.aosparadox.org/YU-OPEN-OS/publish/%/</string>
 
 	<!-- URL base to find .update and .sign files, %s is expanded to property_device value. Path is suffixed by (expanded) filename_base -->
-	<string name="url_base_update">http://download.aosparadox.org/h2o64/YU-OPEN-OS/publish/%s/</string>
+	<string name="url_base_update">http://download.aosparadox.org/YU-OPEN-OS/publish/%s/</string>
 
 	<!-- URL base to find the full zip files, %s is expanded to property_device value. Path is suffixed by (expanded) filename_base -->
 	<string name="url_base_full">http://yuopenos.s3.amazonaws.com/OpenSource_nightly_AOSP/%s/</string>
 
 	<!-- URL base to fetch all builds -->
-	<string name="url_base_json">http://download.aosparadox.org/h2o64/YU-OPEN-OS/json.php"</string>
+	<string name="url_base_json">http://download.aosparadox.org/YU-OPEN-OS/json.php"</string>
 
 	<!-- Applies whole-file signature delta. Adds one extra delta step. Required if recovery verifies signatures -->
 	<item name="apply_signature" type="bool">true</item>
