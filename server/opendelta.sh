@@ -24,7 +24,7 @@ BIN_MINSIGNAPK=$HOME/delta/minsignapk.jar
 BIN_XDELTA=$HOME/delta/xdelta3
 BIN_ZIPADJUST=$HOME/delta/zipadjust
 
-FILE_MATCH=YUOS-MM-6.0.1-*.zip
+FILE_MATCH=YU-OPEN-OS-*.zip
 PATH_CURRENT=$2 # PATH of build is output 2
 PATH_LAST=$HOME/delta/last/$DEVICE
 
