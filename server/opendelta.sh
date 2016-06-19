@@ -28,8 +28,8 @@ FILE_MATCH=YU-OPEN-OS-*.zip
 PATH_CURRENT=$2 # PATH of build is output 2
 PATH_LAST=$HOME/delta/last/$DEVICE
 
-KEY_X509=$HOME/.keys/platform.x509.pem
-KEY_PK8=$HOME/.keys/platform.pk8
+KEY_X509=$HOME/.keys/yu-devkey.x509.pem
+KEY_PK8=$HOME/.keys/testkey.pk8
 
 # ------ PROCESS ------
 
